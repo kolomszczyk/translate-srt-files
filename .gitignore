@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+
+# Local outputs
+napisy_pl.srt
+
+# Optional local secrets/config
+.env
